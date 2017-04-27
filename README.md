@@ -1,10 +1,11 @@
 ﻿# cPlug
 
-标签： JavaScript jQuery
+Tags： JavaScript jQuery
 
 ---
 
 >Git: https://github.com/c-Ku/cPlug
+
 >ReadMe: https://www.zybuluo.com/c-Ku/note/736546
 
 ## cAjax (v1.0.1)
