@@ -15,12 +15,6 @@
 		var xhr = new XMLHttpRequest();
 		xhr.open('post', 'upload.php', true);
 
-		xhr.upload.onprogress = function (ev){
-			var scal = ev.loaded / ev.total;
-			progress.style.width = scal * 500 + 'px';
-			num.innerHTML = Math.round(ev.loaded / ev.total*100) + "%";
-		};
-
 		xhr.onload = function (){
 			var info = JSON.parse(xhr.responseText);
 		};
