@@ -1,10 +1,10 @@
-﻿# cPlug
+﻿# cPlugs
 
 Tags： JavaScript jQuery
 
 ---
 
->Git: https://github.com/c-Ku/cPlug
+>Git: https://github.com/c-Ku/cPlugs
 
 >ReadMe: https://www.zybuluo.com/c-Ku/note/736546
 
