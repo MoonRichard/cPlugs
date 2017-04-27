@@ -5,9 +5,9 @@
 ---
 
 >Git: https://github.com/c-Ku/cPlug
-ReadMe: https://www.zybuluo.com/c-Ku/note/736546
+>ReadMe: https://www.zybuluo.com/c-Ku/note/736546
 
-###·cAjax (v1.0.0)
+###cAjax (v1.0.1)
 
 Add the following code to your page when using cAjax.
     
@@ -28,7 +28,7 @@ cAjax({
 });
 ```
 
-###·cUp (v1.0.0)
+###cUp (v1.0.1)
 Simply using cUp like this.
 ```
 $('#file').cUp()
